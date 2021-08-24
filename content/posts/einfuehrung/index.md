@@ -1,11 +1,11 @@
 +++
-title = "Einführung"
-date = "2019-05-28"
+title = "Erste Webseite \"Bluemelädeli\""
+date = "2021-08-17"
 draft = false
 pinned = false
 tags = ["Anleitung", "Lernblog"]
-image = "/img/default-image.png"
-description = "In diesem Artikel werden Möglichkeiten aufgezeigt für das Verfassen von Blogeinträgen."
+image = "unbenannt.jpg"
+description = "In unseren ersten Lektionen haben wir gelernt, wie man eine Webseite erstellt. Somit haben wir eine Webseite über ein erfundenes \"Bluemelädeli\" erstellt.\n"
 footnotes = "Ganz unten an der Seite können zum Beispiel Bildquellen angegeben werden. Dieser Text ist abgetrennt durch eine Linie und etwas kleiner."
 +++
 
