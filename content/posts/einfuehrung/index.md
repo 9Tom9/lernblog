@@ -8,4 +8,6 @@ image = "unbenannt.jpg"
 description = "In unseren ersten Lektionen haben wir gelernt, wie man eine Webseite erstellt. Somit haben wir eine Webseite über ein erfundenes \"Bluemelädeli\" erstellt.\n"
 footnotes = ""
 +++
+![](unbenannt.jpg)
+
 Unser "Bluemelädeli" mit einem Hochwertigen Sortiment.
