@@ -11,6 +11,6 @@ Momentan sind wir auf der Suche nach einem weiteren Kunden.
 
 Ideen sind Webseiten für Hilfsorganisationen, damit z.B. Spendenaktionen grösser durchgeführt werden können.
 
-Jedoch werden wir eine eigene Webseite für mich (Loris) erstellen.
+Jedoch werden wir eine eigene Webseite für mich erstellen.
 
 Grundidee: Beats verkaufen....
