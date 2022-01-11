@@ -1,9 +1,9 @@
 +++
-title = "Semesterabschluss 2021"
+title = "Zusammenfassung aller Blogeinträge"
 date = "2022-01-11"
 draft = true
 pinned = false
-tags = ["Hochqualitativ", "Semesterabschluss"]
+tags = ["Hochqualitativ", "Blogeinträge"]
 image = ""
 description = "Das Semester neigt sich dem Ende. In diesem Blogeintrag finde Sie eine grobe Zusammenfassung unserer Tätigkeiten im Verlaufe dieses Semesters."
 +++
@@ -31,4 +31,4 @@ Jedoch dauerte es nicht lange und wir hatten eine weitere Idee: Eine digitale Ga
 
 Somit haben wir die Fotos gemacht und jetzt stellen wir noch die Webseite dazu her.
 
-Vor einigen Wochen hatten wir unsere Präsentation
+Vor einigen Wochen hatten wir unsere Präsentation über unsere Projekte
