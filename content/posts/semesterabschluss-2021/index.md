@@ -27,4 +27,8 @@ Die Schwierigkeit bei diesem Kunde war das Kommunizieren. Im Nachhinein haben wi
 
 Somit waren wir ein weiteres Mal auf der Suche von einem Kunde...
 
-Jedoch dauerte es nicht lange und wir hatten eine weitere Idee: Eine digitale Galerie mit den gemalten Bilder meiner Tante zu machen. Dieses Projekt ist aufregend und spannend zugleich denn wir hatten eine weitere Herausforderung vor uns: Fotografieren. Somit liessen wir uns von Herrn Veragut (Lehrer Bildnerisches Gestalten)
+Jedoch dauerte es nicht lange und wir hatten eine weitere Idee: Eine digitale Galerie mit den gemalten Bilder meiner Tante zu machen. Dieses Projekt ist aufregend und spannend zugleich, denn wir hatten eine weitere Herausforderung vor uns: Fotografieren. Somit liessen wir uns von Herrn Veragut (Lehrer Bildnerisches Gestalten) über die Fotografie beraten und lernten somit viel über die Lichtverhältnisse und Blickwinkel.
+
+Somit haben wir die Fotos gemacht und jetzt stellen wir noch die Webseite dazu her.
+
+Vor einigen Wochen hatten wir unsere Präsentation
