@@ -4,6 +4,7 @@ date = "2021-11-02"
 draft = false
 pinned = false
 tags = ["Hochqualitativ", "Effektiv", "Innovativ"]
+image = "gettyimages-1197098316-1040x690.jpg"
 description = "Anfangs haben wir mit Programmieren begonnen, danach haben wir auf unser Projekt gewechselt.\nIn der 3. Lektion sind wir zu einem \"Frigo\" gegangen und haben mit unserer Umfrage bzw. Interview gestartet. Voraussichtlich werden wir noch zu 1-2 weiteren Frigo's gehen, weitere Umfragen machen und die Nachricht der  \"Existenz\" dieser Kühlschränke zu verbreiten."
 +++
 Anfangs haben wir beim Programmieren eine Einführung von Marco bekommen. Jetzt wissen wir, wie man sogar Videos auf eine Webseite einfügt.
