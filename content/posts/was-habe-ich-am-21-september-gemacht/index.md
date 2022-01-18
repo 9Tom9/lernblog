@@ -4,6 +4,7 @@ date = "2021-09-21"
 draft = false
 pinned = false
 tags = ["Hochqualitativ", "Innovativ", "Kühlschrank", "Madamefrigo"]
+image = "fotolia_73461304_xs.jpg"
 description = "Wir kamen zum Schluss, dass wir Werbung in Form von einer Webseite für die Organisation \"Madame Frigo\" machen werden."
 footnotes = "Da wir die nächsten 3 Wochen Schulferien haben, wird der nächste Blogeintrag erst am 20. Oktober ein weiterer Blogeintrag erscheinen."
 +++
