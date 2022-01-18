@@ -3,7 +3,8 @@ title = "Semesterabschluss, Projektbericht"
 date = "2022-01-18"
 draft = false
 pinned = false
-tags = ["Hochqualitativ", "Wunderbar"]
+tags = ["Hochqualitativ", "Semesterabschluss"]
+image = "abschlussbericht_panorama.png"
 description = "Abschluss- Zwischenbericht für unsere Projekte."
 +++
 # **Projektbericht 2021**
