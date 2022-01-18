@@ -4,6 +4,7 @@ date = "2021-11-09"
 draft = false
 pinned = false
 tags = ["Hochqualitativ", "Business"]
+image = "projektabbruch-krisenmanagement.jpg"
 description = "Nach gescheiterten Kontaktversuchen mit Madame Frigo, haben wir unser Projekt aufgegeben bzw. Beendet. Wir beginnen mit einem neuen Projekt."
 +++
 Nach mehreren gescheiterten Kontaktversuchen, haben wir uns entschieden, unser Projekt "Madame Frigo" zu beenden. Wir gehen davon aus, dass die Mitarbeiter von Madame Frigo hauptsächlich einen anderen Beruf ausüben, und das Sozialprojekt als Hobby machen. 
