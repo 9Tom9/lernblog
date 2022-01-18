@@ -1,7 +1,7 @@
 +++
 headless = true
-icon = "/media/pexels-public-domain-pictures-42059-1-.jpg"
-logo = "/media/pexels-public-domain-pictures-42059-1-.jpg"
-image = "/media/pexels-public-domain-pictures-42059-1-.jpg"
+icon = "/media/web-development-t.jpg"
+logo = "/media/web-development-t.jpg"
+image = "/media/web-development-t.jpg"
 color = ""
 +++
